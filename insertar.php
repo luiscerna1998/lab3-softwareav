@@ -23,7 +23,7 @@
             <td><INPUT TYPE="text" NAME="cantidad" id="cantidad" SIZE="50" MAXLENGTH="5"></td>
         </tr>
         <tr>
-            <td>&nbsp;&nbsp;&nbsp;Consulta:</td>
+            <td>&nbsp;&nbsp;&nbsp;Consultas:</td>
             <td>
                 <select name = "operacion">
                         <option value ="1"> Información General </option>
