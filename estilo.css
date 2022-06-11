@@ -1,0 +1,50 @@
+input ,select, textarea, checkbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px; 
+	color: #000000; 
+	background-color: #FFFFFF; 
+	border: 1px solid #B7B7A9 
+	}
+
+.enlace {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#660000;
+	font-size:11px;
+	text-align:center;
+	text-decoration:none;
+	}
+.enlace:hover {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:11px;
+	text-align:center;
+	text-decoration:underline;
+	}
+.datos {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:11px;
+	font-weight:normal;
+	text-align:left;
+}
+.datos1 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:11px;
+	font-weight:normal;
+	text-align:center;
+}
+.detalle {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:12px;
+	font-weight:bold;
+	background-color:#EEEEEE;
+	}
+.detalle2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-size:12px;
+	font-weight:bold;
+	background-color:#cfdbfb;
+	}
